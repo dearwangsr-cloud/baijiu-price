@@ -1,6 +1,7 @@
 {
   "name": "白酒价格记录",
   "short_name": "白酒记录",
+  "id": "/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
