@@ -1,4 +1,4 @@
-const CACHE_NAME = 'liquor-pwa-v2';
+const CACHE_NAME = 'liquor-pwa-v3';
 const urlsToCache = [
   './',
   './白酒价格记录.html',
